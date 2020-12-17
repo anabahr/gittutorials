@@ -8,6 +8,8 @@ keywords: mock, Mock App
 
 # Introduction to {{ site.PRODUCT_NAME_1 }} - API Mock App
 
+Simulating a change made by someone else. 
+
 Testing making a change to my file. 
 An API Mock App is a mock app that is created based on an existing API specification, allowing for development and testing against a live endpoint.
 
