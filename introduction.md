@@ -8,9 +8,8 @@ keywords: mock, Mock App
 
 # Introduction to {{ site.PRODUCT_NAME_1 }} - API Mock App
 
-This is my newest change! 
+Simulating a change made by someone else. This is it!
 
-Simulating a change made by someone else. 
 
 Another writer goes in and makes yet another change. This is change 4. 
 
